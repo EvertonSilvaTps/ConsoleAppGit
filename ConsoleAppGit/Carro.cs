@@ -10,6 +10,5 @@ namespace ConsoleAppGit
         public string Cor {  get; private set; }
         public int Potencia { get; private set; }
         public bool Flex { get; private set; }
-        public string Modelo { get; private set; }
     }
 }
