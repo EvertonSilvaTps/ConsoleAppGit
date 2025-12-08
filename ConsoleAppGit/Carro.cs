@@ -8,13 +8,13 @@
         public bool Flex { get; private set; }
         public Dono Dono { get; private set; }
 
-        public Carro(string placa, string cor, int potencia, bool flex, Dono dono)
-        {
+        public Carro(string placa, string         {
             Placa = placa;
             Cor = cor;
             Potencia = potencia;
             Flex = flex;
             Dono = dono;
-        }
+        }cor, int potencia, bool flex, Dono dono)
+
     }
 }
